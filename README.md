@@ -1,0 +1,1 @@
+# swiss-mint-perc20-token
